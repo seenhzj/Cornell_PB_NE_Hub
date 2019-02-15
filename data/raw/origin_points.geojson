@@ -1,0 +1,34 @@
+{"type": "FeatureCollection", "features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.78, 41.6]}, "properties": {"originfacilityzip": "06037", "origin_major_city": "Berlin", "sum": 255588.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.81, 41.46]}, "properties": {"originfacilityzip": "06492", "origin_major_city": "Wallingford", "sum": 344266.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.3, 40.88]}, "properties": {"originfacilityzip": "07004", "origin_major_city": "Fairfield", "sum": 9626.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.18, 40.67]}, "properties": {"originfacilityzip": "07201", "origin_major_city": "Elizabeth", "sum": 4255.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.17, 40.67]}, "properties": {"originfacilityzip": "07206", "origin_major_city": "Elizabethport", "sum": 5004.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.34, 40.52]}, "properties": {"originfacilityzip": "08837", "origin_major_city": "Edison", "sum": 933857.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.28, 40.52]}, "properties": {"originfacilityzip": "08861", "origin_major_city": "Perth Amboy", "sum": 29841.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.99, 40.75]}, "properties": {"originfacilityzip": "10001", "origin_major_city": "New York", "sum": 11850.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.86, 41.04]}, "properties": {"originfacilityzip": "10533", "origin_major_city": "Irvington", "sum": 21597.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.2, 41.15]}, "properties": {"originfacilityzip": "10974", "origin_major_city": "Sloatsburg", "sum": 45827.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.75, 40.62]}, "properties": {"originfacilityzip": "11096", "origin_major_city": "Inwood", "sum": 7014974.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.75, 40.67]}, "properties": {"originfacilityzip": "11413", "origin_major_city": "Springfield Gardens", "sum": 5614.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.77, 40.72]}, "properties": {"originfacilityzip": "11423", "origin_major_city": "Hollis", "sum": 2.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.77, 40.67]}, "properties": {"originfacilityzip": "11434", "origin_major_city": "Jamaica", "sum": 239326.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.58, 40.76]}, "properties": {"originfacilityzip": "11590", "origin_major_city": "Westbury", "sum": 2164.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.9, 40.36]}, "properties": {"originfacilityzip": "15122", "origin_major_city": "West Mifflin", "sum": 181757.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.93, 40.24]}, "properties": {"originfacilityzip": "17011", "origin_major_city": "Camp Hill", "sum": 1859.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.2, 40.23]}, "properties": {"originfacilityzip": "17013", "origin_major_city": "Carlisle", "sum": 1217878.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.2, 40.2]}, "properties": {"originfacilityzip": "17015", "origin_major_city": "Carlisle", "sum": 197352.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.0, 40.18]}, "properties": {"originfacilityzip": "17055", "origin_major_city": "Mechanicsburg", "sum": 439544.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.66, 40.55]}, "properties": {"originfacilityzip": "18031", "origin_major_city": "Breinigsville", "sum": 2468.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.28, 39.89]}, "properties": {"originfacilityzip": "19032", "origin_major_city": "Folcroft", "sum": 3669.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.95, 40.41]}, "properties": {"originfacilityzip": "19605", "origin_major_city": "Reading", "sum": 344850.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.73, 39.71]}, "properties": {"originfacilityzip": "19711", "origin_major_city": "Newark", "sum": 16326.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.51, 39.46]}, "properties": {"originfacilityzip": "21057", "origin_major_city": "Glen Arm", "sum": 2974.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.68, 39.54]}, "properties": {"originfacilityzip": "21152", "origin_major_city": "Sparks Glencoe", "sum": 19583.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.8, 38.7]}, "properties": {"originfacilityzip": "21632", "origin_major_city": "Federalsburg", "sum": 956108.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-84.5, 33.6]}, "properties": {"originfacilityzip": "30349", "origin_major_city": "Atlanta", "sum": 7793993.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-82.77, 39.95]}, "properties": {"originfacilityzip": "43068", "origin_major_city": "Reynoldsburg", "sum": 17920618.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-85.95, 39.96]}, "properties": {"originfacilityzip": "46037", "origin_major_city": "Fishers", "sum": 18825162.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-86.1, 39.6]}, "properties": {"originfacilityzip": "46143", "origin_major_city": "Greenwood", "sum": 9.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-97.81, 30.3]}, "properties": {"originfacilityzip": "78746", "origin_major_city": "Austin", "sum": 59.0}}
+]}

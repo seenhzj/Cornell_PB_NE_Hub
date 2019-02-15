@@ -1,0 +1,51 @@
+{"type": "FeatureCollection", "features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.1, 42.1]}, "properties": {"destinationfacilityzip": "", "dest_major_city": "Endicott", "sum": 1195932.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.42, 37.58]}, "properties": {"destinationfacilityzip": "01152", "dest_major_city": "Richmond", "sum": 42709.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.27, 40.58]}, "properties": {"destinationfacilityzip": "01889", "dest_major_city": "Avenel", "sum": 14232.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.15, 43.07]}, "properties": {"destinationfacilityzip": "02205", "dest_major_city": "Syracuse", "sum": 599.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-81.4, 38.3]}, "properties": {"destinationfacilityzip": "02904", "dest_major_city": "Belle", "sum": 68602.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.26, 37.51]}, "properties": {"destinationfacilityzip": "04074", "dest_major_city": "Sandston", "sum": 102997.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-84.5, 33.6]}, "properties": {"destinationfacilityzip": "05001", "dest_major_city": "Atlanta", "sum": 110823.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.7, 41.5]}, "properties": {"destinationfacilityzip": "06101", "dest_major_city": "Middletown", "sum": 69858.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.81, 41.46]}, "properties": {"destinationfacilityzip": "06492", "dest_major_city": "Wallingford", "sum": 21263.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.17, 40.67]}, "properties": {"destinationfacilityzip": "07032", "dest_major_city": "Elizabethport", "sum": 18013.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.98, 40.42]}, "properties": {"destinationfacilityzip": "07699", "dest_major_city": "Pittsburgh", "sum": 2753.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.11, 40.47]}, "properties": {"destinationfacilityzip": "08650", "dest_major_city": "Mc Kees Rocks", "sum": 9145.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.83, 42.72]}, "properties": {"destinationfacilityzip": "11599", "dest_major_city": "Albany", "sum": 137.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-70.4, 43.6]}, "properties": {"destinationfacilityzip": "11747", "dest_major_city": "Scarborough", "sum": 3465.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.74, 43.13]}, "properties": {"destinationfacilityzip": "12205", "dest_major_city": "Rochester", "sum": 215085.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.74, 43.13]}, "properties": {"destinationfacilityzip": "12555", "dest_major_city": "Rochester", "sum": 59598.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.17, 40.67]}, "properties": {"destinationfacilityzip": "13208", "dest_major_city": "Elizabethport", "sum": 228631.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.2, 41.6]}, "properties": {"destinationfacilityzip": "13220", "dest_major_city": "Meadville", "sum": 122175.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.85, 40.26]}, "properties": {"destinationfacilityzip": "13760", "dest_major_city": "Harrisburg", "sum": 47852.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.44, 43.07]}, "properties": {"destinationfacilityzip": "14206", "dest_major_city": "Hooksett", "sum": 244858.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.38, 43.66]}, "properties": {"destinationfacilityzip": "14240", "dest_major_city": "White River Junction", "sum": 60030.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.74, 43.13]}, "properties": {"destinationfacilityzip": "14624", "dest_major_city": "Rochester", "sum": 190507.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.44, 42.94]}, "properties": {"destinationfacilityzip": "15086", "dest_major_city": "Manchester", "sum": 40803.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-70.4, 43.6]}, "properties": {"destinationfacilityzip": "15095", "dest_major_city": "Scarborough", "sum": 54003.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.44, 43.07]}, "properties": {"destinationfacilityzip": "15203", "dest_major_city": "Hooksett", "sum": 196404.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.43, 39.87]}, "properties": {"destinationfacilityzip": "16335", "dest_major_city": "Aston", "sum": 35833.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.75, 39.2]}, "properties": {"destinationfacilityzip": "17104", "dest_major_city": "Elkridge", "sum": 296203.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.85, 40.26]}, "properties": {"destinationfacilityzip": "17107", "dest_major_city": "Harrisburg", "sum": 163598.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.48, 40.74]}, "properties": {"destinationfacilityzip": "18002", "dest_major_city": "Bethpage", "sum": 72225.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.01, 40.12]}, "properties": {"destinationfacilityzip": "19014", "dest_major_city": "Philadelphia", "sum": 2102056.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.01, 40.12]}, "properties": {"destinationfacilityzip": "19116", "dest_major_city": "Philadelphia", "sum": 2047.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.9, 37.32]}, "properties": {"destinationfacilityzip": "19720", "dest_major_city": "Roanoke", "sum": 13207.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.33, 42.02]}, "properties": {"destinationfacilityzip": "20790", "dest_major_city": "Plainville", "sum": 16816.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.9, 37.32]}, "properties": {"destinationfacilityzip": "20799", "dest_major_city": "Roanoke", "sum": 18117.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.81, 42.88]}, "properties": {"destinationfacilityzip": "21075", "dest_major_city": "Buffalo", "sum": 1826773.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.04, 42.08]}, "properties": {"destinationfacilityzip": "21601", "dest_major_city": "Brockton", "sum": 20794.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.1, 42.1]}, "properties": {"destinationfacilityzip": "23150", "dest_major_city": "Endicott", "sum": 156771.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.44, 41.85]}, "properties": {"destinationfacilityzip": "23222", "dest_major_city": "Providence", "sum": 288657.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.43, 39.87]}, "properties": {"destinationfacilityzip": "23501", "dest_major_city": "Aston", "sum": 17274.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.9, 37.32]}, "properties": {"destinationfacilityzip": "24012", "dest_major_city": "Roanoke", "sum": 144927.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.38, 43.66]}, "properties": {"destinationfacilityzip": "25309", "dest_major_city": "White River Junction", "sum": 73883.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.44, 42.94]}, "properties": {"destinationfacilityzip": "2762", "dest_major_city": "Manchester", "sum": 1298656.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.67, 39.21]}, "properties": {"destinationfacilityzip": "30349", "dest_major_city": "Linthicum Heights", "sum": 18221341.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-70.89, 43.19]}, "properties": {"destinationfacilityzip": "37660", "dest_major_city": "Dover", "sum": 505.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-70.89, 43.19]}, "properties": {"destinationfacilityzip": "3820", "dest_major_city": "Dover", "sum": 43716.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-85.95, 39.96]}, "properties": {"destinationfacilityzip": "46037", "dest_major_city": "Fishers", "sum": 27928393.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.27, 40.58]}, "properties": {"destinationfacilityzip": "6457", "dest_major_city": "Avenel", "sum": 709537.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.98, 40.42]}, "properties": {"destinationfacilityzip": "7001", "dest_major_city": "Pittsburgh", "sum": 1098690.0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.33, 42.02]}, "properties": {"destinationfacilityzip": "7094", "dest_major_city": "Plainville", "sum": 2548366.0}}
+]}
