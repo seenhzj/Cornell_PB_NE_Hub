@@ -1,0 +1,59 @@
+# ==========================================================
+# = Solver Results                                         =
+# ==========================================================
+# ----------------------------------------------------------
+#   Problem Information
+# ----------------------------------------------------------
+Problem: 
+- Name: unknown
+  Lower bound: 1004535660.0
+  Upper bound: 1004535660.0
+  Number of objectives: 1
+  Number of constraints: 50
+  Number of variables: 245
+  Number of nonzeros: 673
+  Sense: minimize
+# ----------------------------------------------------------
+#   Solver Information
+# ----------------------------------------------------------
+Solver: 
+- Status: ok
+  Termination condition: optimal
+  Statistics: 
+    Branch and bound: 
+      Number of bounded subproblems: 4781
+      Number of created subproblems: 4781
+  Error rc: 0
+  Time: 0.6161923408508301
+# ----------------------------------------------------------
+#   Solution Information
+# ----------------------------------------------------------
+Solution: 
+- number of solutions: 1
+  number of solutions displayed: 1
+- Gap: 0.0
+  Status: optimal
+  Message: None
+  Objective:
+    OBJ:
+      Value: 1004535660
+  Variable:
+    n[Buffalo,Ithaca,Ithaca,1]:
+      Value: 5000000
+    n[Buffalo,Syracuse,Syracuse,1]:
+      Value: 5000000
+    n[Ithaca,Buffalo,Syracuse,2]:
+      Value: 5000000
+    n[Syracuse,Buffalo,Ithaca,2]:
+      Value: 5000000
+    truck[Buffalo,Ithaca]:
+      Value: 834
+    truck[Buffalo,Syracuse]:
+      Value: 834
+    truck[Ithaca,Buffalo]:
+      Value: 834
+    truck[Syracuse,Buffalo]:
+      Value: 834
+    y[Buffalo,medium,both,both]:
+      Value: 1
+  Constraint: No values

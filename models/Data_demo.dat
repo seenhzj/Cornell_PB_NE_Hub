@@ -1,0 +1,126 @@
+set L := Syracuse Buffalo Elizabeth Ithaca;
+set I := Syracuse;
+set J := Buffalo Elizabeth;
+set K := Ithaca;
+set S := small medium large;
+set T := deliver return both;
+set F := ingest both;
+set MaxH := 2;
+
+param Max_Capital_Cost:= 15000000;  #capital investing $ given
+param Mile_Cost:= 4;  #mile cost in $ per mile
+param Truck_Size:= 6000;  #the max size of a truck in packages
+param Load_Cost:= 50;  #the loading cost per truck in $
+param Unload_Cost:= 50;  #the unloading cost per truck in $
+param Hops:= 2;  #number of hops allowed
+param Fixed_Trucks_Cost:= 550; #the min trans cost per truck in $
+
+param capital:= 
+Buffalo small deliver ingest 1000000
+Buffalo small deliver both 1500000
+Buffalo small return ingest 1000000
+Buffalo small return both 1500000
+Buffalo small both ingest 2000000
+Buffalo small both both 2500000
+Buffalo medium deliver ingest 4000000
+Buffalo medium deliver both 4500000
+Buffalo medium return ingest 4000000
+Buffalo medium return both 4500000
+Buffalo medium both ingest 5000000
+Buffalo medium both both 5500000
+Buffalo large deliver ingest 10000000
+Buffalo large deliver both 10500000
+Buffalo large return ingest 4000000
+Buffalo large return both 4500000
+Buffalo large both ingest 11000000
+Buffalo large both both 11500000
+Elizabeth small deliver ingest 1000000
+Elizabeth small deliver both 1500000
+Elizabeth small return ingest 1000000
+Elizabeth small return both 1500000
+Elizabeth small both ingest 2000000
+Elizabeth small both both 2500000
+Elizabeth medium deliver ingest 4000000
+Elizabeth medium deliver both 4500000
+Elizabeth medium return ingest 4000000
+Elizabeth medium return both 4500000
+Elizabeth medium both ingest 5000000
+Elizabeth medium both both 5500000
+Elizabeth large deliver ingest 10000000
+Elizabeth large deliver both 10500000
+Elizabeth large return ingest 4000000
+Elizabeth large return both 4500000
+Elizabeth large both ingest 11000000
+Elizabeth large both both 11500000;
+
+param utility:=
+Buffalo small deliver ingest 500
+Buffalo small deliver both 500
+Buffalo small return ingest 500
+Buffalo small return both 500
+Buffalo small both ingest 500
+Buffalo small both both 500
+Buffalo medium deliver ingest 700
+Buffalo medium deliver both 700
+Buffalo medium return ingest 700
+Buffalo medium return both 700
+Buffalo medium both ingest 700
+Buffalo medium both both 700
+Buffalo large deliver ingest 1000
+Buffalo large deliver both 1000
+Buffalo large return ingest 1000
+Buffalo large return both 1000
+Buffalo large both ingest 1000
+Buffalo large both both 1000
+Elizabeth small deliver ingest 500
+Elizabeth small deliver both 500
+Elizabeth small return ingest 500
+Elizabeth small return both 500
+Elizabeth small both ingest 500
+Elizabeth small both both 500
+Elizabeth medium deliver ingest 700
+Elizabeth medium deliver both 700
+Elizabeth medium return ingest 700
+Elizabeth medium return both 700
+Elizabeth medium both ingest 700
+Elizabeth medium both both 700
+Elizabeth large deliver ingest 1000
+Elizabeth large deliver both 1000
+Elizabeth large return ingest 1000
+Elizabeth large return both 1000
+Elizabeth large both ingest 1000
+Elizabeth large both both 1000;
+
+param distance:=
+Syracuse Syracuse 0
+Syracuse Buffalo 150
+Syracuse Elizabeth 245
+Syracuse Ithaca 55
+Buffalo Buffalo 0
+Buffalo Syracuse 150
+Buffalo Elizabeth 371
+Buffalo Ithaca 155
+Elizabeth Elizabeth 0
+Elizabeth Buffalo 371
+Elizabeth Syracuse 245
+Elizabeth Ithaca 221
+Ithaca Ithaca 0
+Ithaca Buffalo 155
+Ithaca Syracuse 55
+Ithaca Elizabeth 221;
+
+param hub_capacity:=
+small 4800000
+medium 14400000
+large 28800000;
+
+param package:=
+Syracuse Syracuse 0
+Syracuse Ithaca 5000000
+Ithaca Ithaca 0
+Ithaca Syracuse 5000000;
+
+param sorting:=
+Elizabeth 0.5
+Buffalo 0.5;
+
