@@ -1,0 +1,60 @@
+set Facilities := a b c;
+
+set Customers := 1 2 3 4 5;
+
+set Arcs := 
+1 a
+2 a
+3 a
+4 a
+5 a
+1 b
+2 b
+3 b
+4 b
+5 b
+1 c
+2 c
+3 c
+4 c
+5 c;
+
+
+param demand :=
+1 80
+2 270
+3 250
+4 160
+5 180;
+
+
+param Cap :=
+a 500
+b 500
+c 500;
+
+
+param trans_cost :=
+1 a 4
+2 a 5
+3 a 6
+4 a 8
+5 a 10
+1 b 6
+2 b 4
+3 b 3
+4 b 5
+5 b 8
+1 c 9
+2 c 7
+3 c 4
+4 c 3
+5 c 4;
+
+
+param act_cost :=
+a 800
+b 1000
+c 1000;
+
+
