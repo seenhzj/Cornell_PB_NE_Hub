@@ -1,314 +1,222 @@
 {"type": "FeatureCollection", "features": [
-{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.76, 41.3]}, "properties": {"facilityzip": "16335", "major_city": "Amawalk", "sum": 1409.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.0, 37.3]}, "properties": {"facilityzip": "23002", "major_city": "Amelia Court House", "sum": 5508.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.79, 43.45]}, "properties": {"facilityzip": "20710", "major_city": "Andover", "sum": 4.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.88, 38.81]}, "properties": {"facilityzip": "21233", "major_city": "Andrews Air Force Base", "sum": 13777.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.88, 40.63]}, "properties": {"facilityzip": "01889", "major_city": "Annandale", "sum": 3176.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.79, 39.12]}, "properties": {"facilityzip": "10451", "major_city": "Annapolis Junction", "sum": 217037.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.638, 40.941]}, "properties": {"facilityzip": "11931", "major_city": "Aquebogue", "sum": 12119.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.05, 38.86]}, "properties": {"facilityzip": "20799", "major_city": "Arlington", "sum": 143495.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.76, 41.43]}, "properties": {"facilityzip": "08252", "major_city": "Ashaway", "sum": 1.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.43, 39.87]}, "properties": {"facilityzip": "19014", "major_city": "Aston", "sum": 166496.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-84.5, 33.6]}, "properties": {"facilityzip": "30349", "major_city": "Atlanta", "sum": 486247.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.07, 39.89]}, "properties": {"facilityzip": "06910", "major_city": "Audubon", "sum": 1747.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.4, 40.2]}, "properties": {"facilityzip": "21233", "major_city": "Avella", "sum": 732.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.27, 40.58]}, "properties": {"facilityzip": "7001", "major_city": "Avenel", "sum": 47715.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-81.4, 38.3]}, "properties": {"facilityzip": "14206", "major_city": "Belle", "sum": 8330.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.09, 39.87]}, "properties": {"facilityzip": "08031", "major_city": "Bellmawr", "sum": 46017.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-81.27, 39.38]}, "properties": {"facilityzip": "07099", "major_city": "Belmont", "sum": 7.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.01, 40.14]}, "properties": {"facilityzip": "11351", "major_city": "Bentleyville", "sum": 204.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.63, 42.38]}, "properties": {"facilityzip": "08031", "major_city": "Berlin", "sum": 2.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.48, 40.74]}, "properties": {"facilityzip": "6457", "major_city": "Bethpage", "sum": 2119.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-70.344, 43.445]}, "properties": {"facilityzip": "25248", "major_city": "Biddeford Pool", "sum": 72.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.93, 38.94]}, "properties": {"facilityzip": "19176", "major_city": "Bladensburg", "sum": 317817.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.4, 41.0]}, "properties": {"facilityzip": "7001", "major_city": "Bloomsburg", "sum": 111.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.1, 40.65]}, "properties": {"facilityzip": "10044", "major_city": "Bloomsbury", "sum": 1526366.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-81.1, 37.3]}, "properties": {"facilityzip": "12493", "major_city": "Bluefield", "sum": 4.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-69.63, 43.85]}, "properties": {"facilityzip": "22201", "major_city": "Boothbay Harbor", "sum": 2.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.33, 39.18]}, "properties": {"facilityzip": "11256", "major_city": "Boyds", "sum": 436.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.21, 36.61]}, "properties": {"facilityzip": "25401", "major_city": "Boykins", "sum": 1.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.74, 41.41]}, "properties": {"facilityzip": "6457", "major_city": "Bradford", "sum": 4.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.04, 42.08]}, "properties": {"facilityzip": "02066", "major_city": "Brockton", "sum": 222797.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.92, 40.82]}, "properties": {"facilityzip": "02066", "major_city": "Bronx", "sum": 164988.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.33, 40.41]}, "properties": {"facilityzip": "15019", "major_city": "Bulger", "sum": 16.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.8, 37.9]}, "properties": {"facilityzip": "18059", "major_city": "Bumpass", "sum": 1388.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.4, 40.4]}, "properties": {"facilityzip": "01701", "major_city": "Burgettstown", "sum": 277521.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.09, 39.95]}, "properties": {"facilityzip": "04571", "major_city": "Camden", "sum": 103481.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.6, 40.3]}, "properties": {"facilityzip": "14136", "major_city": "Campbelltown", "sum": 6.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.6, 44.9]}, "properties": {"facilityzip": "04006", "major_city": "Canaan", "sum": 7.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.31, 43.07]}, "properties": {"facilityzip": "07097", "major_city": "Candia", "sum": 18.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.968, 38.935]}, "properties": {"facilityzip": "26301", "major_city": "Cape May Point", "sum": 2180.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.2, 36.7]}, "properties": {"facilityzip": "22081", "major_city": "Capron", "sum": 419.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-68.79, 44.42]}, "properties": {"facilityzip": "23805", "major_city": "Castine", "sum": 6.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.58, 43.41]}, "properties": {"facilityzip": "11980", "major_city": "Cavendish", "sum": 3.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.278, 42.109]}, "properties": {"facilityzip": "14720", "major_city": "Celoron", "sum": 37923.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-81.75, 38.31]}, "properties": {"facilityzip": "25309", "major_city": "Charleston", "sum": 648059.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.4, 38.1]}, "properties": {"facilityzip": "22911", "major_city": "Charlottesville", "sum": 164093.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.5, 39.8]}, "properties": {"facilityzip": "26301", "major_city": "Chatsworth", "sum": 3.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.4, 36.7]}, "properties": {"facilityzip": "23323", "major_city": "Chesapeake", "sum": 162247.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.65, 40.11]}, "properties": {"facilityzip": "12288", "major_city": "Chesterfield", "sum": 1875144.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.91, 43.74]}, "properties": {"facilityzip": "13208", "major_city": "Chittenden", "sum": 28638.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.4, 39.3]}, "properties": {"facilityzip": "21233", "major_city": "Clarksburg", "sum": 48422.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.23, 40.44]}, "properties": {"facilityzip": "07721", "major_city": "Cliffwood", "sum": 130305.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.98, 41.68]}, "properties": {"facilityzip": "07099", "major_city": "Cochecton", "sum": 25.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.0, 38.2]}, "properties": {"facilityzip": "11256", "major_city": "Colonial Beach", "sum": 3295.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.7, 42.7]}, "properties": {"facilityzip": "01889", "major_city": "Colrain", "sum": 11.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-81.3, 37.5]}, "properties": {"facilityzip": "23192", "major_city": "Covel", "sum": 1.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.43, 41.62]}, "properties": {"facilityzip": "23228", "major_city": "Crosby", "sum": 20.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.3, 42.2]}, "properties": {"facilityzip": "15378", "major_city": "Cuba", "sum": 19.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.48, 41.02]}, "properties": {"facilityzip": "20799", "major_city": "Cutchogue", "sum": 3.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.1, 38.5]}, "properties": {"facilityzip": "07097", "major_city": "Dayton", "sum": 32.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.0, 41.0]}, "properties": {"facilityzip": "2783", "major_city": "De Lancey", "sum": 2.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-68.7, 44.2]}, "properties": {"facilityzip": "23805", "major_city": "Deer Isle", "sum": 7.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.25, 43.15]}, "properties": {"facilityzip": "08212", "major_city": "Deerfield", "sum": 411.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.0, 41.0]}, "properties": {"facilityzip": "12205", "major_city": "Delaware", "sum": 11902.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-70.89, 43.19]}, "properties": {"facilityzip": "3820", "major_city": "Dover", "sum": 19417.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.5, 40.4]}, "properties": {"facilityzip": "23084", "major_city": "Duncansville", "sum": 6894.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.722, 40.293]}, "properties": {"facilityzip": "15930", "major_city": "Dunlo", "sum": 9.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.67, 43.16]}, "properties": {"facilityzip": "02070", "major_city": "Durhamville", "sum": 2.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.6, 42.8]}, "properties": {"facilityzip": "11351", "major_city": "Earlville", "sum": 476.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.39, 41.48]}, "properties": {"facilityzip": "16635", "major_city": "East Haddam", "sum": 203.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.91, 42.0]}, "properties": {"facilityzip": "06027", "major_city": "East Hartland", "sum": 391.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.808, 40.385]}, "properties": {"facilityzip": "15035", "major_city": "East Mc Keesport", "sum": 30.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.02, 41.87]}, "properties": {"facilityzip": "02718", "major_city": "East Taunton", "sum": 30.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.0, 38.8]}, "properties": {"facilityzip": "21601", "major_city": "Easton", "sum": 13111.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.0, 36.58]}, "properties": {"facilityzip": "23501", "major_city": "Ebony", "sum": 9.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.17, 40.67]}, "properties": {"facilityzip": "7206", "major_city": "Elizabethport", "sum": 30442.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.76, 42.09]}, "properties": {"facilityzip": "4092", "major_city": "Elizaville", "sum": 268.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.75, 39.2]}, "properties": {"facilityzip": "21075", "major_city": "Elkridge", "sum": 80078.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.804, 40.279]}, "properties": {"facilityzip": "08031", "major_city": "Elton", "sum": 127.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.5, 36.7]}, "properties": {"facilityzip": "23847", "major_city": "Emporia", "sum": 128474.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.1, 42.1]}, "properties": {"facilityzip": "13760", "major_city": "Endicott", "sum": 53422.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.6, 37.8]}, "properties": {"facilityzip": "15290", "major_city": "Esmont", "sum": 3.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.06, 44.52]}, "properties": {"facilityzip": "05452", "major_city": "Essex Junction", "sum": 89577.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.81, 39.36]}, "properties": {"facilityzip": "17604", "major_city": "Estell Manor", "sum": 578612.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-85.95, 39.96]}, "properties": {"facilityzip": "46037", "major_city": "Fishers", "sum": 209705.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.832, 40.704]}, "properties": {"facilityzip": "11351", "major_city": "Flushing", "sum": 35691.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.4, 42.9]}, "properties": {"facilityzip": "7001", "major_city": "Fonda", "sum": 128.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.45, 39.47]}, "properties": {"facilityzip": "16108", "major_city": "Fork", "sum": 1034.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.59, 37.12]}, "properties": {"facilityzip": "23604", "major_city": "Fort Eustis", "sum": 25200.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.07, 38.88]}, "properties": {"facilityzip": "14624", "major_city": "Fort Myer", "sum": 85454.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.7, 41.79]}, "properties": {"facilityzip": "10959", "major_city": "Foster", "sum": 1.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.43, 42.32]}, "properties": {"facilityzip": "19720", "major_city": "Framingham", "sum": 67215.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.49, 38.3]}, "properties": {"facilityzip": "12288", "major_city": "Fredericksburg", "sum": 2899.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.0, 38.6]}, "properties": {"facilityzip": "2762", "major_city": "Fulks Run", "sum": 15295.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.4, 42.9]}, "properties": {"facilityzip": "19176", "major_city": "Fultonville", "sum": 1945.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.7, 40.72]}, "properties": {"facilityzip": "30349", "major_city": "Germansville", "sum": 65596.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.3, 43.4]}, "properties": {"facilityzip": "24502", "major_city": "Gilmanton Iron Works", "sum": 6.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.48, 41.24]}, "properties": {"facilityzip": "7206", "major_city": "Glenwood", "sum": 1853.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.645, 40.829]}, "properties": {"facilityzip": "11351", "major_city": "Glenwood Landing", "sum": 10.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.1, 39.3]}, "properties": {"facilityzip": "11747", "major_city": "Grafton", "sum": 9.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.37, 39.39]}, "properties": {"facilityzip": "15904", "major_city": "Greenwich", "sum": 414.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.09, 40.91]}, "properties": {"facilityzip": "17107", "major_city": "Hamilton", "sum": 10238.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-68.9, 44.7]}, "properties": {"facilityzip": "04444", "major_city": "Hampden", "sum": 21576.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.37, 37.09]}, "properties": {"facilityzip": "15290", "major_city": "Hampton", "sum": 159956.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-70.87, 42.93]}, "properties": {"facilityzip": "22201", "major_city": "Hampton Falls", "sum": 4169.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.71, 42.45]}, "properties": {"facilityzip": "7094", "major_city": "Harpersfield", "sum": 309200.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.98, 40.99]}, "properties": {"facilityzip": "25309", "major_city": "Harrington Park", "sum": 7229.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.85, 40.26]}, "properties": {"facilityzip": "17104", "major_city": "Harrisburg", "sum": 166077.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.267, 39.685]}, "properties": {"facilityzip": "10044", "major_city": "Harrisonville", "sum": 27937.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.81, 40.55]}, "properties": {"facilityzip": "22125", "major_city": "Harwick", "sum": 18.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.21, 40.82]}, "properties": {"facilityzip": "11788", "major_city": "Hauppauge", "sum": 43479.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.42, 40.38]}, "properties": {"facilityzip": "10044", "major_city": "Helmetta", "sum": 271617.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.59, 42.77]}, "properties": {"facilityzip": "02301", "major_city": "Hemlock", "sum": 7.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.5, 37.63]}, "properties": {"facilityzip": "23228", "major_city": "Henrico", "sum": 25637.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.32, 39.33]}, "properties": {"facilityzip": "05452", "major_city": "Hepzibah", "sum": 113.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.7, 36.9]}, "properties": {"facilityzip": "19014", "major_city": "Hiwassee", "sum": 34693.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.44, 43.07]}, "properties": {"facilityzip": "3106", "major_city": "Hooksett", "sum": 28833.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.15, 40.19]}, "properties": {"facilityzip": "01546", "major_city": "Horsham", "sum": 223524.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.7, 41.3]}, "properties": {"facilityzip": "23150", "major_city": "Hughesville", "sum": 41.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.731, 40.226]}, "properties": {"facilityzip": "3106", "major_city": "Hutchinson", "sum": 1754.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.7, 37.8]}, "properties": {"facilityzip": "08106", "major_city": "Iron Gate", "sum": 1.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.06, 42.83]}, "properties": {"facilityzip": "20799", "major_city": "Jaffrey", "sum": 3.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.56, 39.35]}, "properties": {"facilityzip": "20710", "major_city": "Jefferson", "sum": 2.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.9, 38.63]}, "properties": {"facilityzip": "03844", "major_city": "Jeffersonton", "sum": 20.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.85, 40.31]}, "properties": {"facilityzip": "15904", "major_city": "Johnstown", "sum": 35636.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-81.6, 38.6]}, "properties": {"facilityzip": "07980", "major_city": "Kenna", "sum": 1001.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.09, 37.88]}, "properties": {"facilityzip": "23602", "major_city": "Kents Store", "sum": 9.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.95, 40.01]}, "properties": {"facilityzip": "11599", "major_city": "La Belle", "sum": 447.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.94, 39.53]}, "properties": {"facilityzip": "15904", "major_city": "Landisville", "sum": 3870.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.41, 40.35]}, "properties": {"facilityzip": "18002", "major_city": "Langeloth", "sum": 2064.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.53, 40.72]}, "properties": {"facilityzip": "19720", "major_city": "Laurys Station", "sum": 6103.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.86, 39.89]}, "properties": {"facilityzip": "15454", "major_city": "Leckrone", "sum": 1.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.28, 40.672]}, "properties": {"facilityzip": "07699", "major_city": "Llewellyn", "sum": 38.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.21, 37.36]}, "properties": {"facilityzip": "19014", "major_city": "Lynchburg", "sum": 26801.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.3, 38.5]}, "properties": {"facilityzip": "23501", "major_city": "Madison", "sum": 27698.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.44, 42.94]}, "properties": {"facilityzip": "03103", "major_city": "Manchester", "sum": 72223.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.15, 42.29]}, "properties": {"facilityzip": "23847", "major_city": "Maplecrest", "sum": 10.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-68.2, 46.7]}, "properties": {"facilityzip": "17570", "major_city": "Mapleton", "sum": 20.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.17, 38.56]}, "properties": {"facilityzip": "20658", "major_city": "Marbury", "sum": 4.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.97, 39.47]}, "properties": {"facilityzip": "7032", "major_city": "Martinsburg", "sum": 846.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.75, 38.38]}, "properties": {"facilityzip": "19720", "major_city": "Mc Gaheysville", "sum": 13525.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.11, 40.47]}, "properties": {"facilityzip": "19014", "major_city": "Mc Kees Rocks", "sum": 123897.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.2, 41.6]}, "properties": {"facilityzip": "16335", "major_city": "Meadville", "sum": 44711.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.11, 42.42]}, "properties": {"facilityzip": "02155", "major_city": "Medford", "sum": 768.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.4, 40.79]}, "properties": {"facilityzip": "11747", "major_city": "Melville", "sum": 126581.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.7, 41.5]}, "properties": {"facilityzip": "6457", "major_city": "Middletown", "sum": 158481.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.4, 40.6]}, "properties": {"facilityzip": "14514", "major_city": "Mifflintown", "sum": 343.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.26, 40.69]}, "properties": {"facilityzip": "08107", "major_city": "Minersville", "sum": 29.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.9, 43.0]}, "properties": {"facilityzip": "11256", "major_city": "Mohawk", "sum": 7.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.99, 40.33]}, "properties": {"facilityzip": "07750", "major_city": "Monmouth Beach", "sum": 38316.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.7, 37.8]}, "properties": {"facilityzip": "17107", "major_city": "Montpelier", "sum": 91656.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.96, 44.89]}, "properties": {"facilityzip": "26155", "major_city": "Morgan", "sum": 1.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.89, 38.33]}, "properties": {"facilityzip": "01472", "major_city": "Mount Crawford", "sum": 17022.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.96, 38.26]}, "properties": {"facilityzip": "04444", "major_city": "Mount Sidney", "sum": 376.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.44, 40.89]}, "properties": {"facilityzip": "08110", "major_city": "Mountain Lakes", "sum": 5210.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.081, 41.405]}, "properties": {"facilityzip": "19044", "major_city": "Mountainville", "sum": 10711.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.863, 42.991]}, "properties": {"facilityzip": "02027", "major_city": "Mumford", "sum": 60.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.2, 38.43]}, "properties": {"facilityzip": "7206", "major_city": "Nanjemoy", "sum": 606.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.0, 40.1]}, "properties": {"facilityzip": "20762", "major_city": "Narvon", "sum": 4507.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.6, 39.6]}, "properties": {"facilityzip": "19720", "major_city": "New Castle", "sum": 243218.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.65, 39.96]}, "properties": {"facilityzip": "14514", "major_city": "New Lisbon", "sum": 2.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.83, 39.64]}, "properties": {"facilityzip": "11256", "major_city": "New Martinsville", "sum": 1262.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.76, 40.66]}, "properties": {"facilityzip": "02301", "major_city": "New Tripoli", "sum": 120.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.95, 40.77]}, "properties": {"facilityzip": "10044", "major_city": "New York", "sum": 45509.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.96, 43.19]}, "properties": {"facilityzip": "15329", "major_city": "Newport", "sum": 6.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.52, 37.12]}, "properties": {"facilityzip": "10044", "major_city": "Newport News", "sum": 69901.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.54, 38.71]}, "properties": {"facilityzip": "20714", "major_city": "North Beach", "sum": 100683.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.8, 43.09]}, "properties": {"facilityzip": "14514", "major_city": "North Chili", "sum": 46639.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.9, 41.98]}, "properties": {"facilityzip": "06255", "major_city": "North Grosvenordale", "sum": 5297.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-70.83, 42.98]}, "properties": {"facilityzip": "20799", "major_city": "North Hampton", "sum": 18.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.2, 43.22]}, "properties": {"facilityzip": "10199", "major_city": "Northwood", "sum": 1958.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.05, 39.76]}, "properties": {"facilityzip": "07750", "major_city": "Nottingham", "sum": 13.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.08, 39.91]}, "properties": {"facilityzip": "08107", "major_city": "Oaklyn", "sum": 704.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.26, 38.684]}, "properties": {"facilityzip": "20898", "major_city": "Occoquan", "sum": 10627.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.11, 40.89]}, "properties": {"facilityzip": "23602", "major_city": "Oneida", "sum": 37.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.96, 40.81]}, "properties": {"facilityzip": "23323", "major_city": "Oxford", "sum": 511.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.92, 41.02]}, "properties": {"facilityzip": "13220", "major_city": "Palisades", "sum": 2153.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.93, 39.96]}, "properties": {"facilityzip": "08106", "major_city": "Parkesburg", "sum": 65085.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.15, 40.91]}, "properties": {"facilityzip": "07513", "major_city": "Paterson", "sum": 47658.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.06, 39.97]}, "properties": {"facilityzip": "8110", "major_city": "Pennsauken", "sum": 1521428.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.4, 37.1]}, "properties": {"facilityzip": "15203", "major_city": "Petersburg", "sum": 8963.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.89, 42.84]}, "properties": {"facilityzip": "19176", "major_city": "Piffard", "sum": 2.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.98, 40.42]}, "properties": {"facilityzip": "15203", "major_city": "Pittsburgh", "sum": 407641.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.33, 42.02]}, "properties": {"facilityzip": "2762", "major_city": "Plainville", "sum": 168706.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.1, 42.84]}, "properties": {"facilityzip": "06910", "major_city": "Plaistow", "sum": 15629.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.7, 40.03]}, "properties": {"facilityzip": "30349", "major_city": "Pleasant Hall", "sum": 5137.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.07, 39.63]}, "properties": {"facilityzip": "20714", "major_city": "Port Deposit", "sum": 3.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.1, 39.2]}, "properties": {"facilityzip": "08349", "major_city": "Port Norris", "sum": 1.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.54, 38.49]}, "properties": {"facilityzip": "20676", "major_city": "Port Republic", "sum": 5.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.66, 40.35]}, "properties": {"facilityzip": "15904", "major_city": "Princeton", "sum": 2011.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.03, 43.65]}, "properties": {"facilityzip": "07750", "major_city": "Proctor", "sum": 51494.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.27, 40.03]}, "properties": {"facilityzip": "01701", "major_city": "Prosperity", "sum": 48131.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.44, 41.85]}, "properties": {"facilityzip": "02904", "major_city": "Providence", "sum": 297733.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.19, 38.32]}, "properties": {"facilityzip": "22081", "major_city": "Radiant", "sum": 21267.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.9, 42.2]}, "properties": {"facilityzip": "07699", "major_city": "Randolph", "sum": 507.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.0, 38.3]}, "properties": {"facilityzip": "23501", "major_city": "Rapidan", "sum": 1512.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.8, 42.0]}, "properties": {"facilityzip": "12571", "major_city": "Red Hook", "sum": 15831.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.58, 41.87]}, "properties": {"facilityzip": "2783", "major_city": "Rew", "sum": 38.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.6, 40.2]}, "properties": {"facilityzip": "11256", "major_city": "Rheems", "sum": 41525.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.42, 37.58]}, "properties": {"facilityzip": "23222", "major_city": "Richmond", "sum": 102871.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.14, 40.36]}, "properties": {"facilityzip": "23873", "major_city": "Robesonia", "sum": 1.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.0, 37.9]}, "properties": {"facilityzip": "05001", "major_city": "Roseland", "sum": 2599.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.92, 42.7]}, "properties": {"facilityzip": "4092", "major_city": "Rowe", "sum": 6.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.24, 42.76]}, "properties": {"facilityzip": "30349", "major_city": "Rushville", "sum": 9788.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.84, 40.62]}, "properties": {"facilityzip": "16635", "major_city": "Russellton", "sum": 58.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-81.2, 39.4]}, "properties": {"facilityzip": "22727", "major_city": "Saint Marys", "sum": 21.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.18, 42.93]}, "properties": {"facilityzip": "13208", "major_city": "Sandown", "sum": 189.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.26, 37.51]}, "properties": {"facilityzip": "23150", "major_city": "Sandston", "sum": 141818.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-70.4, 43.6]}, "properties": {"facilityzip": "04074", "major_city": "Scarborough", "sum": 123759.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.83, 40.87]}, "properties": {"facilityzip": "02205", "major_city": "Schooleys Mountain", "sum": 13.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.7, 37.8]}, "properties": {"facilityzip": "22911", "major_city": "Schuyler", "sum": 1.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.0, 42.2]}, "properties": {"facilityzip": "10603", "major_city": "Scio", "sum": 67.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-70.77, 42.21]}, "properties": {"facilityzip": "15203", "major_city": "Scituate", "sum": 18635.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.1, 41.7]}, "properties": {"facilityzip": "06264", "major_city": "Scotland", "sum": 4.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.68, 39.16]}, "properties": {"facilityzip": "6457", "major_city": "Sea Isle City", "sum": 47.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.06, 40.78]}, "properties": {"facilityzip": "7094", "major_city": "Secaucus", "sum": 131117.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.64, 41.46]}, "properties": {"facilityzip": "15095", "major_city": "Shannock", "sum": 1.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.6, 43.07]}, "properties": {"facilityzip": "20799", "major_city": "Sherrill", "sum": 389.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.5, 41.3]}, "properties": {"facilityzip": "14692", "major_city": "Shippenville", "sum": 12015.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.17, 42.53]}, "properties": {"facilityzip": "17604", "major_city": "Silver Creek", "sum": 8555.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.387, 40.363]}, "properties": {"facilityzip": "08110", "major_city": "Slovan", "sum": 6.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.53, 40.55]}, "properties": {"facilityzip": "08880", "major_city": "South Bound Brook", "sum": 1.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.2, 42.3]}, "properties": {"facilityzip": "14173", "major_city": "South Lee", "sum": 4165.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.93, 41.03]}, "properties": {"facilityzip": "14533", "major_city": "Sparkill", "sum": 28.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.5, 40.68]}, "properties": {"facilityzip": "19014", "major_city": "Stirling", "sum": 136105.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.04, 41.26]}, "properties": {"facilityzip": "19176", "major_city": "Stony Point", "sum": 2199.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.15, 43.07]}, "properties": {"facilityzip": "13208", "major_city": "Syracuse", "sum": 291672.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.2, 39.7]}, "properties": {"facilityzip": "01889", "major_city": "Taneytown", "sum": 15933.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.33, 41.04]}, "properties": {"facilityzip": "25015", "major_city": "Tannersville", "sum": 56.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.966, 40.915]}, "properties": {"facilityzip": "12205", "major_city": "Tresckow", "sum": 17.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-69.68, 43.9]}, "properties": {"facilityzip": "46037", "major_city": "Trevett", "sum": 437.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.2, 39.5]}, "properties": {"facilityzip": "01889", "major_city": "Union Bridge", "sum": 8748.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.96, 36.78]}, "properties": {"facilityzip": "15095", "major_city": "Virginia Beach", "sum": 3986.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-69.56, 43.95]}, "properties": {"facilityzip": "17954", "major_city": "Walpole", "sum": 1.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-70.7, 41.8]}, "properties": {"facilityzip": "30349", "major_city": "Wareham", "sum": 785361.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.46, 41.71]}, "properties": {"facilityzip": "21075", "major_city": "Warwick", "sum": 668.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.2, 38.7]}, "properties": {"facilityzip": "14514", "major_city": "Washington", "sum": 512.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.0, 42.0]}, "properties": {"facilityzip": "4092", "major_city": "Waterford", "sum": 2480.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.85, 40.187]}, "properties": {"facilityzip": "15087", "major_city": "Webster", "sum": 2.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.0, 43.3]}, "properties": {"facilityzip": "01472", "major_city": "West Monroe", "sum": 596.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.961, 41.797]}, "properties": {"facilityzip": "04444", "major_city": "West Park", "sum": 26975.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.89, 44.72]}, "properties": {"facilityzip": "30349", "major_city": "West Stockholm", "sum": 470.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-70.35, 43.7]}, "properties": {"facilityzip": "4092", "major_city": "Westbrook", "sum": 16489.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.272, 40.278]}, "properties": {"facilityzip": "02301", "major_city": "Westland", "sum": 17656.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.076, 41.52]}, "properties": {"facilityzip": "04074", "major_city": "Westport Point", "sum": 100.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.6, 40.1]}, "properties": {"facilityzip": "07699", "major_city": "Wheeling", "sum": 8047.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.57, 39.66]}, "properties": {"facilityzip": "0", "major_city": "White Hall", "sum": 16637.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.38, 43.66]}, "properties": {"facilityzip": "05001", "major_city": "White River Junction", "sum": 26646.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.9, 41.4]}, "properties": {"facilityzip": "17701", "major_city": "Williamsport", "sum": 10530.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.26, 41.9]}, "properties": {"facilityzip": "17555", "major_city": "Willington", "sum": 7.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-69.96, 44.31]}, "properties": {"facilityzip": "22965", "major_city": "Winthrop", "sum": 8.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.2, 43.6]}, "properties": {"facilityzip": "17104", "major_city": "Wolfeboro", "sum": 667.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.21, 40.4]}, "properties": {"facilityzip": "06910", "major_city": "Womelsdorf", "sum": 2014.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.52, 39.99]}, "properties": {"facilityzip": "07721", "major_city": "Wrightsville", "sum": 79.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.92, 40.83]}, "properties": {"facilityzip": "20790", "major_city": "Yaphank", "sum": 16721.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.29, 40.78]}, "properties": {"facilityzip": "22967", "major_city": "Yatesboro", "sum": 21.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.476, 42.532]}, "properties": {"facilityzip": "2762", "major_city": "Yorkshire", "sum": 7.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.6, 39.8]}, "properties": {"facilityzip": "17272", "major_city": "Zullinger", "sum": 14307.0, "type": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.47, 40.6]}, "properties": {"facilityzip": "18101", "major_city": "Allentown", "sum": 4156.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.93, 40.77]}, "properties": {"facilityzip": "11102", "major_city": "Astoria", "sum": 3716.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-84.5, 33.6]}, "properties": {"facilityzip": "30349", "major_city": "Atlanta", "sum": 4029467.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.78, 41.6]}, "properties": {"facilityzip": "06037", "major_city": "Berlin", "sum": 20.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.35, 40.59]}, "properties": {"facilityzip": "18015", "major_city": "Bethlehem", "sum": 15873.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.054, 42.359]}, "properties": {"facilityzip": "02110", "major_city": "Boston", "sum": 5.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.66, 40.55]}, "properties": {"facilityzip": "18031", "major_city": "Breinigsville", "sum": 2.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.97, 40.7]}, "properties": {"facilityzip": "11205", "major_city": "Brooklyn", "sum": 1.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.84, 42.94]}, "properties": {"facilityzip": "14214", "major_city": "Buffalo", "sum": 2867.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-119.0, 34.2]}, "properties": {"facilityzip": "93012", "major_city": "Camarillo", "sum": 90916.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.61, 40.75]}, "properties": {"facilityzip": "11514", "major_city": "Carle Place", "sum": 725.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-91.7, 41.9]}, "properties": {"facilityzip": "52404", "major_city": "Cedar Rapids", "sum": 2304496.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.38, 39.85]}, "properties": {"facilityzip": "19013", "major_city": "Chester", "sum": 25.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.61, 42.54]}, "properties": {"facilityzip": "01434", "major_city": "Devens", "sum": 77.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.4, 40.52]}, "properties": {"facilityzip": "08817", "major_city": "Edison", "sum": 387326.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.6, 40.2]}, "properties": {"facilityzip": "17022", "major_city": "Elizabethtown", "sum": 2006120.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.56, 41.98]}, "properties": {"facilityzip": "06082", "major_city": "Enfield", "sum": 73.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-85.95, 39.96]}, "properties": {"facilityzip": "46037", "major_city": "Fishers", "sum": 7722785.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.71, 40.85]}, "properties": {"facilityzip": "07836", "major_city": "Flanders", "sum": 1794.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.4, 40.77]}, "properties": {"facilityzip": "07932", "major_city": "Florham Park", "sum": 1.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-97.29, 32.97]}, "properties": {"facilityzip": "76177", "major_city": "Fort Worth", "sum": 1636282.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.38, 39.34]}, "properties": {"facilityzip": "21704", "major_city": "Frederick", "sum": 48582.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.99, 40.02]}, "properties": {"facilityzip": "17527", "major_city": "Gap", "sum": 693060.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.51, 39.46]}, "properties": {"facilityzip": "21057", "major_city": "Glen Arm", "sum": 2149.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.4, 40.27]}, "properties": {"facilityzip": "19438", "major_city": "Harleysville", "sum": 13.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.75, 40.62]}, "properties": {"facilityzip": "11096", "major_city": "Inwood", "sum": 218401.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.27, 41.84]}, "properties": {"facilityzip": "16329", "major_city": "Irvine", "sum": 21.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-96.95, 32.88]}, "properties": {"facilityzip": "75039", "major_city": "Irving", "sum": 961398.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.12, 40.75]}, "properties": {"facilityzip": "07032", "major_city": "Kearny", "sum": 6472.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.49, 42.54]}, "properties": {"facilityzip": "01460", "major_city": "Littleton", "sum": 17857.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.4, 42.9]}, "properties": {"facilityzip": "03053", "major_city": "Londonderry", "sum": 10851.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.21, 37.36]}, "properties": {"facilityzip": "24502", "major_city": "Lynchburg", "sum": 3.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.0, 40.18]}, "properties": {"facilityzip": "17055", "major_city": "Mechanicsburg", "sum": 255106.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.07, 41.24]}, "properties": {"facilityzip": "06461", "major_city": "Milford", "sum": 2.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.4, 40.3]}, "properties": {"facilityzip": "08831", "major_city": "Monroe Township", "sum": 82736.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-117.22, 33.88]}, "properties": {"facilityzip": "92551", "major_city": "Moreno Valley", "sum": 93646.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.43, 40.04]}, "properties": {"facilityzip": "17554", "major_city": "Mountville", "sum": 1210.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.63, 40.24]}, "properties": {"facilityzip": "15672", "major_city": "New Stanton", "sum": 6710.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.97, 40.76]}, "properties": {"facilityzip": "10022", "major_city": "New York", "sum": 30.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.2, 39.5]}, "properties": {"facilityzip": "21130", "major_city": "Perryman", "sum": 148217.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.76, 41.3]}, "properties": {"facilityzip": "18640", "major_city": "Pittston", "sum": 506926.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.49, 37.59]}, "properties": {"facilityzip": "23230", "major_city": "Richmond", "sum": 2604.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.7, 35.9]}, "properties": {"facilityzip": "27801", "major_city": "Rocky Mount", "sum": 2739418.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.64, 38.38]}, "properties": {"facilityzip": "21801", "major_city": "Salisbury", "sum": 4427.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-117.4, 34.2]}, "properties": {"facilityzip": "92407", "major_city": "San Bernardino", "sum": 541438.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.06, 40.78]}, "properties": {"facilityzip": "07094", "major_city": "Secaucus", "sum": 189588.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.0, 43.2]}, "properties": {"facilityzip": "14551", "major_city": "Sodus", "sum": 23.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.75, 40.67]}, "properties": {"facilityzip": "11413", "major_city": "Springfield Gardens", "sum": 280495.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.57, 43.43]}, "properties": {"facilityzip": "03276", "major_city": "Tilton", "sum": 2.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.77, 38.89]}, "properties": {"facilityzip": "20774", "major_city": "Upper Marlboro", "sum": 172.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.24, 40.95]}, "properties": {"facilityzip": "07470", "major_city": "Wayne", "sum": 1068.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.02, 42.02]}, "properties": {"facilityzip": "02379", "major_city": "West Bridgewater", "sum": 329.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.8, 41.2]}, "properties": {"facilityzip": "18702", "major_city": "Wilkes Barre", "sum": 526.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.67, 39.95]}, "properties": {"facilityzip": "17402", "major_city": "York", "sum": 446.0, "type": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.58, 40.24]}, "properties": {"facilityzip": "15697", "major_city": "Youngwood", "sum": 114.0, "type": 4}}
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.598, 42.106]}, "properties": {"facilityzip": "011", "state": "MA", "sum": 1095.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.28, 42.46]}, "properties": {"facilityzip": "012", "state": "MA", "sum": 69.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.605, 42.627]}, "properties": {"facilityzip": "013", "state": "MA", "sum": 2.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.817, 42.585]}, "properties": {"facilityzip": "014", "state": "MA", "sum": 214.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.845, 42.197]}, "properties": {"facilityzip": "015", "state": "MA", "sum": 45529.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.438, 42.322]}, "properties": {"facilityzip": "017", "state": "MA", "sum": 4681.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.155, 42.486]}, "properties": {"facilityzip": "018", "state": "MA", "sum": 41366.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.474, 42.078]}, "properties": {"facilityzip": "020", "state": "MA", "sum": 400.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.058, 42.359]}, "properties": {"facilityzip": "021", "state": "MA", "sum": 995.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.058, 42.358]}, "properties": {"facilityzip": "022", "state": "MA", "sum": 119285.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.042, 42.078]}, "properties": {"facilityzip": "023", "state": "MA", "sum": 22549.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-70.59, 41.745]}, "properties": {"facilityzip": "025", "state": "MA", "sum": 12.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.061, 41.784]}, "properties": {"facilityzip": "027", "state": "MA", "sum": 91.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.458, 41.953]}, "properties": {"facilityzip": "028", "state": "RI", "sum": 60.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.413, 41.826]}, "properties": {"facilityzip": "029", "state": "RI", "sum": 97282.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.607, 42.871]}, "properties": {"facilityzip": "030", "state": "NH", "sum": 3.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.466, 42.989]}, "properties": {"facilityzip": "031", "state": "NH", "sum": 77196.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.498, 43.973]}, "properties": {"facilityzip": "032", "state": "NH", "sum": 6.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.297, 42.967]}, "properties": {"facilityzip": "034", "state": "NH", "sum": 1.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-70.804, 43.073]}, "properties": {"facilityzip": "038", "state": "NH", "sum": 71.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-70.921, 43.53]}, "properties": {"facilityzip": "040", "state": "ME", "sum": 56128.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-69.737, 44.365]}, "properties": {"facilityzip": "043", "state": "ME", "sum": 2.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-68.846, 44.85]}, "properties": {"facilityzip": "044", "state": "ME", "sum": 28951.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-69.831, 43.893]}, "properties": {"facilityzip": "045", "state": "ME", "sum": 16.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-68.416, 44.672]}, "properties": {"facilityzip": "046", "state": "ME", "sum": 1.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-68.046, 46.224]}, "properties": {"facilityzip": "047", "state": "ME", "sum": 1.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.386, 43.675]}, "properties": {"facilityzip": "050", "state": "VT", "sum": 46737.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.496, 43.18]}, "properties": {"facilityzip": "051", "state": "VT", "sum": 1.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.223, 44.474]}, "properties": {"facilityzip": "054", "state": "VT", "sum": 33709.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.917, 43.633]}, "properties": {"facilityzip": "057", "state": "VT", "sum": 65.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.988, 44.409]}, "properties": {"facilityzip": "058", "state": "VT", "sum": 1.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.489, 45.009]}, "properties": {"facilityzip": "059", "state": "VT", "sum": 3.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.854, 41.791]}, "properties": {"facilityzip": "060", "state": "CT", "sum": 23.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.21, 41.712]}, "properties": {"facilityzip": "062", "state": "CT", "sum": 19.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.069, 41.345]}, "properties": {"facilityzip": "064", "state": "CT", "sum": 142.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.044, 41.558]}, "properties": {"facilityzip": "067", "state": "CT", "sum": 1.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.393, 41.375]}, "properties": {"facilityzip": "068", "state": "CT", "sum": 14.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.538, 41.054]}, "properties": {"facilityzip": "069", "state": "CT", "sum": 54791.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.27, 40.583]}, "properties": {"facilityzip": "070", "state": "NJ", "sum": 115621.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.133, 41.033]}, "properties": {"facilityzip": "074", "state": "NJ", "sum": 20.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.175, 40.914]}, "properties": {"facilityzip": "075", "state": "NJ", "sum": 178.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.046, 40.889]}, "properties": {"facilityzip": "076", "state": "NJ", "sum": 43097.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.078, 40.361]}, "properties": {"facilityzip": "077", "state": "NJ", "sum": 1215.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.581, 40.915]}, "properties": {"facilityzip": "078", "state": "NJ", "sum": 17.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.365, 40.715]}, "properties": {"facilityzip": "079", "state": "NJ", "sum": 40.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.352, 39.552]}, "properties": {"facilityzip": "080", "state": "NJ", "sum": 82821.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.122, 39.946]}, "properties": {"facilityzip": "081", "state": "NJ", "sum": 201.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.486, 39.417]}, "properties": {"facilityzip": "082", "state": "NJ", "sum": 86.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.257, 39.443]}, "properties": {"facilityzip": "083", "state": "NJ", "sum": 438.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.553, 40.158]}, "properties": {"facilityzip": "085", "state": "NJ", "sum": 37.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.761, 40.22]}, "properties": {"facilityzip": "086", "state": "NJ", "sum": 65748.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.884, 40.624]}, "properties": {"facilityzip": "088", "state": "NJ", "sum": 3031.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.997, 40.751]}, "properties": {"facilityzip": "100", "state": "NY", "sum": 1479.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.98, 40.763]}, "properties": {"facilityzip": "101", "state": "NY", "sum": 215026.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.924, 40.82]}, "properties": {"facilityzip": "104", "state": "NY", "sum": 621.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.76, 41.292]}, "properties": {"facilityzip": "105", "state": "NY", "sum": 4.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.765, 41.033]}, "properties": {"facilityzip": "106", "state": "NY", "sum": 57057.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.124, 41.143]}, "properties": {"facilityzip": "109", "state": "NY", "sum": 366.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.989, 40.697]}, "properties": {"facilityzip": "112", "state": "NY", "sum": 104815.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.827, 40.756]}, "properties": {"facilityzip": "113", "state": "NY", "sum": 49751.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.64, 40.747]}, "properties": {"facilityzip": "115", "state": "NY", "sum": 31428.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.413, 40.682]}, "properties": {"facilityzip": "117", "state": "NY", "sum": 55274.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.642, 40.934]}, "properties": {"facilityzip": "119", "state": "NY", "sum": 61.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.931, 42.455]}, "properties": {"facilityzip": "120", "state": "NY", "sum": 4.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.752, 42.647]}, "properties": {"facilityzip": "122", "state": "NY", "sum": 169403.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.001, 41.937]}, "properties": {"facilityzip": "124", "state": "NY", "sum": 71.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.56, 41.86]}, "properties": {"facilityzip": "125", "state": "NY", "sum": 48935.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.7, 41.646]}, "properties": {"facilityzip": "127", "state": "NY", "sum": 1.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.645, 43.311]}, "properties": {"facilityzip": "128", "state": "NY", "sum": 1.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.074, 42.821]}, "properties": {"facilityzip": "130", "state": "NY", "sum": 1.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.064, 42.599]}, "properties": {"facilityzip": "131", "state": "NY", "sum": 29.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.151, 43.044]}, "properties": {"facilityzip": "132", "state": "NY", "sum": 169881.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.217, 43.419]}, "properties": {"facilityzip": "133", "state": "NY", "sum": 1.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.5, 42.902]}, "properties": {"facilityzip": "134", "state": "NY", "sum": 3.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.902, 43.962]}, "properties": {"facilityzip": "136", "state": "NY", "sum": 1.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.539, 42.234]}, "properties": {"facilityzip": "137", "state": "NY", "sum": 22177.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.782, 42.5]}, "properties": {"facilityzip": "138", "state": "NY", "sum": 1.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.541, 42.388]}, "properties": {"facilityzip": "141", "state": "NY", "sum": 151.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.887, 42.897]}, "properties": {"facilityzip": "142", "state": "NY", "sum": 169204.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.856, 43.197]}, "properties": {"facilityzip": "144", "state": "NY", "sum": 1.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.338, 43.097]}, "properties": {"facilityzip": "145", "state": "NY", "sum": 497.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.607, 43.159]}, "properties": {"facilityzip": "146", "state": "NY", "sum": 144339.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.262, 42.082]}, "properties": {"facilityzip": "147", "state": "NY", "sum": 111.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.285, 42.095]}, "properties": {"facilityzip": "148", "state": "NY", "sum": 1.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.321, 40.593]}, "properties": {"facilityzip": "150", "state": "PA", "sum": 12191.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.955, 40.58]}, "properties": {"facilityzip": "151", "state": "PA", "sum": 2572.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.956, 40.474]}, "properties": {"facilityzip": "152", "state": "PA", "sum": 489597.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.254, 40.164]}, "properties": {"facilityzip": "153", "state": "PA", "sum": 127.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.748, 39.899]}, "properties": {"facilityzip": "154", "state": "PA", "sum": 13.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.535, 40.316]}, "properties": {"facilityzip": "156", "state": "PA", "sum": 1.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.154, 40.63]}, "properties": {"facilityzip": "157", "state": "PA", "sum": 12.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.914, 40.328]}, "properties": {"facilityzip": "159", "state": "PA", "sum": 18415.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.288, 40.988]}, "properties": {"facilityzip": "161", "state": "PA", "sum": 126.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.464, 40.808]}, "properties": {"facilityzip": "162", "state": "PA", "sum": 2.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.652, 41.454]}, "properties": {"facilityzip": "163", "state": "PA", "sum": 43141.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.407, 41.883]}, "properties": {"facilityzip": "164", "state": "PA", "sum": 61.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.096, 42.118]}, "properties": {"facilityzip": "165", "state": "PA", "sum": 824.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.368, 40.555]}, "properties": {"facilityzip": "166", "state": "PA", "sum": 14870.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.765, 41.916]}, "properties": {"facilityzip": "167", "state": "PA", "sum": 4.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.827, 40.527]}, "properties": {"facilityzip": "170", "state": "PA", "sum": 3.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.888, 40.26]}, "properties": {"facilityzip": "171", "state": "PA", "sum": 330598.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.667, 39.973]}, "properties": {"facilityzip": "172", "state": "PA", "sum": 64.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.987, 39.893]}, "properties": {"facilityzip": "173", "state": "PA", "sum": 4.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.205, 40.157]}, "properties": {"facilityzip": "175", "state": "PA", "sum": 95.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.314, 40.073]}, "properties": {"facilityzip": "176", "state": "PA", "sum": 11531.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.895, 41.345]}, "properties": {"facilityzip": "177", "state": "PA", "sum": 135.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.757, 40.834]}, "properties": {"facilityzip": "178", "state": "PA", "sum": 1.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.255, 40.694]}, "properties": {"facilityzip": "179", "state": "PA", "sum": 3.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.648, 40.469]}, "properties": {"facilityzip": "180", "state": "PA", "sum": 96321.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.955, 40.951]}, "properties": {"facilityzip": "182", "state": "PA", "sum": 8.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.182, 41.032]}, "properties": {"facilityzip": "183", "state": "PA", "sum": 1.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.752, 41.182]}, "properties": {"facilityzip": "186", "state": "PA", "sum": 13.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.151, 40.306]}, "properties": {"facilityzip": "189", "state": "PA", "sum": 377.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.126, 40.127]}, "properties": {"facilityzip": "190", "state": "PA", "sum": 1150079.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.184, 39.953]}, "properties": {"facilityzip": "191", "state": "PA", "sum": 156367.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.482, 40.041]}, "properties": {"facilityzip": "193", "state": "PA", "sum": 823.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.061, 40.244]}, "properties": {"facilityzip": "195", "state": "PA", "sum": 19.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.94, 40.353]}, "properties": {"facilityzip": "196", "state": "PA", "sum": 2.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.699, 39.585]}, "properties": {"facilityzip": "197", "state": "DE", "sum": 50194.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.471, 39.177]}, "properties": {"facilityzip": "199", "state": "DE", "sum": 215.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.855, 38.618]}, "properties": {"facilityzip": "206", "state": "MD", "sum": 68.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.803, 39.125]}, "properties": {"facilityzip": "207", "state": "MD", "sum": 142154.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.144, 38.966]}, "properties": {"facilityzip": "208", "state": "MD", "sum": 46525.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.208, 39.475]}, "properties": {"facilityzip": "210", "state": "MD", "sum": 917464.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.846, 39.687]}, "properties": {"facilityzip": "211", "state": "MD", "sum": 79.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.622, 39.294]}, "properties": {"facilityzip": "212", "state": "MD", "sum": 121617.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.083, 38.795]}, "properties": {"facilityzip": "216", "state": "MD", "sum": 13571.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.334, 39.448]}, "properties": {"facilityzip": "217", "state": "MD", "sum": 765.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.958, 39.586]}, "properties": {"facilityzip": "219", "state": "MD", "sum": 1.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.213, 38.831]}, "properties": {"facilityzip": "220", "state": "VA", "sum": 111889.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.164, 38.938]}, "properties": {"facilityzip": "221", "state": "VA", "sum": 334.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.095, 38.886]}, "properties": {"facilityzip": "222", "state": "VA", "sum": 765.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.059, 38.82]}, "properties": {"facilityzip": "223", "state": "VA", "sum": 336.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.483, 38.296]}, "properties": {"facilityzip": "224", "state": "VA", "sum": 153.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.513, 37.753]}, "properties": {"facilityzip": "225", "state": "VA", "sum": 2.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.998, 38.438]}, "properties": {"facilityzip": "227", "state": "VA", "sum": 224.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.876, 38.404]}, "properties": {"facilityzip": "228", "state": "VA", "sum": 1418.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.555, 38.088]}, "properties": {"facilityzip": "229", "state": "VA", "sum": 246.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.961, 37.351]}, "properties": {"facilityzip": "230", "state": "VA", "sum": 71.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.836, 37.71]}, "properties": {"facilityzip": "231", "state": "VA", "sum": 181718.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.437, 37.539]}, "properties": {"facilityzip": "232", "state": "VA", "sum": 82383.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.799, 37.255]}, "properties": {"facilityzip": "233", "state": "VA", "sum": 94060.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.733, 37.382]}, "properties": {"facilityzip": "234", "state": "VA", "sum": 5.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.28, 36.852]}, "properties": {"facilityzip": "235", "state": "VA", "sum": 39138.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.468, 37.046]}, "properties": {"facilityzip": "236", "state": "VA", "sum": 4319.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.336, 37.238]}, "properties": {"facilityzip": "238", "state": "VA", "sum": 1327.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.941, 37.271]}, "properties": {"facilityzip": "240", "state": "VA", "sum": 66795.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.801, 37.178]}, "properties": {"facilityzip": "241", "state": "VA", "sum": 1.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.794, 37.063]}, "properties": {"facilityzip": "243", "state": "VA", "sum": 8.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.089, 38.131]}, "properties": {"facilityzip": "244", "state": "VA", "sum": 7.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.146, 37.358]}, "properties": {"facilityzip": "245", "state": "VA", "sum": 876.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-81.219, 37.301]}, "properties": {"facilityzip": "247", "state": "WV", "sum": 4.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-81.771, 38.251]}, "properties": {"facilityzip": "250", "state": "WV", "sum": 8717.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-81.856, 38.318]}, "properties": {"facilityzip": "252", "state": "WV", "sum": 4.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-81.628, 38.351]}, "properties": {"facilityzip": "253", "state": "WV", "sum": 121721.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.972, 39.457]}, "properties": {"facilityzip": "254", "state": "WV", "sum": 4.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.651, 40.07]}, "properties": {"facilityzip": "260", "state": "WV", "sum": 15.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-81.576, 39.239]}, "properties": {"facilityzip": "261", "state": "WV", "sum": 3.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.312, 39.281]}, "properties": {"facilityzip": "263", "state": "WV", "sum": 11.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.634, 35.775]}, "properties": {"facilityzip": "276", "state": "NC", "sum": 598494.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.736, 35.911]}, "properties": {"facilityzip": "278", "state": "NC", "sum": 854.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-84.39, 33.755]}, "properties": {"facilityzip": "303", "state": "GA", "sum": 9068935.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-83.34, 31.977]}, "properties": {"facilityzip": "310", "state": "GA", "sum": 66242.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-88.51, 36.13]}, "properties": {"facilityzip": "382", "state": "TN", "sum": 22512.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-83.619, 36.853]}, "properties": {"facilityzip": "409", "state": "KY", "sum": 32605.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-85.66, 40.249]}, "properties": {"facilityzip": "460", "state": "IN", "sum": 13926225.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-94.845, 39.765]}, "properties": {"facilityzip": "645", "state": "MO", "sum": 364193.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-90.166, 29.983]}, "properties": {"facilityzip": "700", "state": "LA", "sum": 673497.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-90.765, 29.825]}, "properties": {"facilityzip": "703", "state": "LA", "sum": 4438.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-92.876, 35.073]}, "properties": {"facilityzip": "720", "state": "AR", "sum": 88947.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-105.834, 37.481]}, "properties": {"facilityzip": "811", "state": "CO", "sum": 7670.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-106.756, 32.295]}, "properties": {"facilityzip": "880", "state": "NM", "sum": 197.0, "type": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.817, 42.585]}, "properties": {"facilityzip": "014", "state": "MA", "sum": 17934.0, "type": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.058, 42.359]}, "properties": {"facilityzip": "021", "state": "MA", "sum": 5.0, "type": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.042, 42.078]}, "properties": {"facilityzip": "023", "state": "MA", "sum": 329.0, "type": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.607, 42.871]}, "properties": {"facilityzip": "030", "state": "NH", "sum": 10851.0, "type": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.498, 43.973]}, "properties": {"facilityzip": "032", "state": "NH", "sum": 2.0, "type": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.854, 41.791]}, "properties": {"facilityzip": "060", "state": "CT", "sum": 93.0, "type": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.069, 41.345]}, "properties": {"facilityzip": "064", "state": "CT", "sum": 2.0, "type": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.27, 40.583]}, "properties": {"facilityzip": "070", "state": "NJ", "sum": 196060.0, "type": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.133, 41.033]}, "properties": {"facilityzip": "074", "state": "NJ", "sum": 1068.0, "type": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.581, 40.915]}, "properties": {"facilityzip": "078", "state": "NJ", "sum": 1794.0, "type": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.365, 40.715]}, "properties": {"facilityzip": "079", "state": "NJ", "sum": 1.0, "type": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.884, 40.624]}, "properties": {"facilityzip": "088", "state": "NJ", "sum": 470062.0, "type": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.997, 40.751]}, "properties": {"facilityzip": "100", "state": "NY", "sum": 30.0, "type": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.707, 40.722]}, "properties": {"facilityzip": "110", "state": "NY", "sum": 218401.0, "type": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.94, 40.746]}, "properties": {"facilityzip": "111", "state": "NY", "sum": 3716.0, "type": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.989, 40.697]}, "properties": {"facilityzip": "112", "state": "NY", "sum": 1.0, "type": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.794, 40.705]}, "properties": {"facilityzip": "114", "state": "NY", "sum": 280495.0, "type": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.64, 40.747]}, "properties": {"facilityzip": "115", "state": "NY", "sum": 725.0, "type": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.887, 42.897]}, "properties": {"facilityzip": "142", "state": "NY", "sum": 2867.0, "type": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.338, 43.097]}, "properties": {"facilityzip": "145", "state": "NY", "sum": 23.0, "type": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.535, 40.316]}, "properties": {"facilityzip": "156", "state": "PA", "sum": 6824.0, "type": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.652, 41.454]}, "properties": {"facilityzip": "163", "state": "PA", "sum": 1253021.0, "type": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.827, 40.527]}, "properties": {"facilityzip": "170", "state": "PA", "sum": 2261226.0, "type": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.734, 39.959]}, "properties": {"facilityzip": "174", "state": "PA", "sum": 446.0, "type": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.205, 40.157]}, "properties": {"facilityzip": "175", "state": "PA", "sum": 694270.0, "type": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.314, 40.073]}, "properties": {"facilityzip": "176", "state": "PA", "sum": 7002847.0, "type": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.648, 40.469]}, "properties": {"facilityzip": "180", "state": "PA", "sum": 15875.0, "type": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.47, 40.603]}, "properties": {"facilityzip": "181", "state": "PA", "sum": 4156.0, "type": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.752, 41.182]}, "properties": {"facilityzip": "186", "state": "PA", "sum": 506926.0, "type": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.885, 41.243]}, "properties": {"facilityzip": "187", "state": "PA", "sum": 526.0, "type": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.126, 40.127]}, "properties": {"facilityzip": "190", "state": "PA", "sum": 25.0, "type": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.332, 40.13]}, "properties": {"facilityzip": "194", "state": "PA", "sum": 13.0, "type": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.803, 39.125]}, "properties": {"facilityzip": "207", "state": "MD", "sum": 172.0, "type": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.208, 39.475]}, "properties": {"facilityzip": "210", "state": "MD", "sum": 2149.0, "type": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.846, 39.687]}, "properties": {"facilityzip": "211", "state": "MD", "sum": 148217.0, "type": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.334, 39.448]}, "properties": {"facilityzip": "217", "state": "MD", "sum": 48582.0, "type": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.643, 38.376]}, "properties": {"facilityzip": "218", "state": "MD", "sum": 4427.0, "type": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.437, 37.539]}, "properties": {"facilityzip": "232", "state": "VA", "sum": 2604.0, "type": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.146, 37.358]}, "properties": {"facilityzip": "245", "state": "VA", "sum": 3.0, "type": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.736, 35.911]}, "properties": {"facilityzip": "278", "state": "NC", "sum": 2739418.0, "type": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-84.39, 33.755]}, "properties": {"facilityzip": "303", "state": "GA", "sum": 4029467.0, "type": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-85.66, 40.249]}, "properties": {"facilityzip": "460", "state": "IN", "sum": 7722785.0, "type": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-91.659, 41.975]}, "properties": {"facilityzip": "524", "state": "IA", "sum": 2304496.0, "type": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-96.838, 32.96]}, "properties": {"facilityzip": "750", "state": "TX", "sum": 961398.0, "type": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-97.328, 32.746]}, "properties": {"facilityzip": "761", "state": "TX", "sum": 1636282.0, "type": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-117.293, 34.097]}, "properties": {"facilityzip": "924", "state": "CA", "sum": 541438.0, "type": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-117.372, 33.996]}, "properties": {"facilityzip": "925", "state": "CA", "sum": 93646.0, "type": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-119.307, 34.373]}, "properties": {"facilityzip": "930", "state": "CA", "sum": 90916.0, "type": 4}}
 ]}

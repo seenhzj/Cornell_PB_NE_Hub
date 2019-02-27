@@ -1,0 +1,77 @@
+# ==========================================================
+# = Solver Results                                         =
+# ==========================================================
+# ----------------------------------------------------------
+#   Problem Information
+# ----------------------------------------------------------
+Problem: 
+- Name: unknown
+  Lower bound: 93479670.5
+  Upper bound: 93479670.5
+  Number of objectives: 1
+  Number of constraints: 4050
+  Number of variables: 7513
+  Number of nonzeros: 67593
+  Sense: minimize
+# ----------------------------------------------------------
+#   Solver Information
+# ----------------------------------------------------------
+Solver: 
+- Status: ok
+  Termination condition: optimal
+  Statistics: 
+    Branch and bound: 
+      Number of bounded subproblems: 119
+      Number of created subproblems: 119
+  Error rc: 0
+  Time: 0.6050832271575928
+# ----------------------------------------------------------
+#   Solution Information
+# ----------------------------------------------------------
+Solution: 
+- number of solutions: 1
+  number of solutions displayed: 1
+- Gap: 0.0
+  Status: optimal
+  Message: None
+  Objective:
+    OBJ:
+      Value: 93479670.50000001
+  Variable:
+    n[1,105,201,2]:
+      Value: 825171
+    n[1,110,201,2]:
+      Value: 4.22481429754227e-10
+    n[105,1,201,1]:
+      Value: -4.65661287307739e-10
+    n[105,201,201,1]:
+      Value: 825171
+    n[105,202,202,1]:
+      Value: 20618
+    n[105,203,203,1]:
+      Value: 80359
+    n[105,204,204,1]:
+      Value: 3993
+    n[110,1,201,0]:
+      Value: -2.3283064365387e-10
+    n[110,1,201,1]:
+      Value: 4.22481429754227e-10
+    n[110,1,202,1]:
+      Value: -9.07366887361735e-13
+    n[110,1,203,1]:
+      Value: -3.53647762641874e-12
+    n[110,201,201,0]:
+      Value: 2.3283064365387e-10
+    n[110,202,202,1]:
+      Value: 9.07366887361735e-13
+    n[110,203,203,1]:
+      Value: 3.53647762641874e-12
+    n[2,105,202,2]:
+      Value: 20618
+    n[3,105,203,2]:
+      Value: 80359
+    n[4,105,204,2]:
+      Value: 3993
+    y[105,small,both,both]:
+      Value: 1
+  Constraint: No values
