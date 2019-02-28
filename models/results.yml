@@ -6,12 +6,12 @@
 # ----------------------------------------------------------
 Problem: 
 - Name: unknown
-  Lower bound: 1004535660.0
-  Upper bound: 1004535660.0
+  Lower bound: 3101829.5
+  Upper bound: 3101829.5
   Number of objectives: 1
-  Number of constraints: 50
-  Number of variables: 245
-  Number of nonzeros: 673
+  Number of constraints: 55566
+  Number of variables: 42229
+  Number of nonzeros: 275325
   Sense: minimize
 # ----------------------------------------------------------
 #   Solver Information
@@ -21,10 +21,10 @@ Solver:
   Termination condition: optimal
   Statistics: 
     Branch and bound: 
-      Number of bounded subproblems: 4781
-      Number of created subproblems: 4781
+      Number of bounded subproblems: 119
+      Number of created subproblems: 119
   Error rc: 0
-  Time: 0.6161923408508301
+  Time: 2.632032871246338
 # ----------------------------------------------------------
 #   Solution Information
 # ----------------------------------------------------------
@@ -36,24 +36,60 @@ Solution:
   Message: None
   Objective:
     OBJ:
-      Value: 1004535660
+      Value: 3101829.5
   Variable:
-    n[Buffalo,Ithaca,Ithaca,1]:
-      Value: 5000000
-    n[Buffalo,Syracuse,Syracuse,1]:
-      Value: 5000000
-    n[Ithaca,Buffalo,Syracuse,2]:
-      Value: 5000000
-    n[Syracuse,Buffalo,Ithaca,2]:
-      Value: 5000000
-    truck[Buffalo,Ithaca]:
-      Value: 834
-    truck[Buffalo,Syracuse]:
-      Value: 834
-    truck[Ithaca,Buffalo]:
-      Value: 834
-    truck[Syracuse,Buffalo]:
-      Value: 834
-    y[Buffalo,medium,both,both]:
+    n[1,110,201,2]:
+      Value: 11725
+    n[101,1,203,1]:
+      Value: 1.62636834801564e-16
+    n[101,1,205,1]:
+      Value: 4.0659208700391e-16
+    n[101,1,206,1]:
+      Value: 1.67515939845611e-14
+    n[101,203,203,1]:
+      Value: -1.62636834801564e-16
+    n[101,205,205,1]:
+      Value: -4.0659208700391e-16
+    n[101,206,206,1]:
+      Value: -1.67515939845611e-14
+    n[106,1,203,0]:
+      Value: -1.62636834801564e-16
+    n[106,1,205,0]:
+      Value: -4.0659208700391e-16
+    n[106,1,206,0]:
+      Value: -1.67515939845611e-14
+    n[106,203,203,0]:
+      Value: 1.62636834801564e-16
+    n[106,205,205,0]:
+      Value: 4.0659208700391e-16
+    n[106,206,206,0]:
+      Value: 1.67515939845611e-14
+    n[110,201,201,1]:
+      Value: 11725
+    n[110,202,202,1]:
+      Value: 527
+    n[110,203,203,1]:
+      Value: 4
+    n[110,204,204,1]:
+      Value: 18179
+    n[110,205,205,1]:
+      Value: 10
+    n[110,206,206,1]:
+      Value: 412
+    n[110,207,207,1]:
+      Value: 2
+    n[2,110,202,2]:
+      Value: 527
+    n[3,110,203,2]:
+      Value: 4
+    n[4,110,204,2]:
+      Value: 18179
+    n[5,110,205,2]:
+      Value: 10
+    n[6,110,206,2]:
+      Value: 412
+    n[7,110,207,2]:
+      Value: 2
+    y[110,small,both,both]:
       Value: 1
   Constraint: No values

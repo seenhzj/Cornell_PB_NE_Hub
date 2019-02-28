@@ -16,80 +16,22 @@ param Hops:= 2;  #number of hops allowed
 param Fixed_Trucks_Cost:= 550; #the min trans cost per truck in $
 
 param capital:= 
-Buffalo small deliver ingest 1000000
-Buffalo small deliver both 1500000
-Buffalo small return ingest 1000000
-Buffalo small return both 1500000
-Buffalo small both ingest 2000000
-Buffalo small both both 2500000
-Buffalo medium deliver ingest 4000000
-Buffalo medium deliver both 4500000
-Buffalo medium return ingest 4000000
-Buffalo medium return both 4500000
-Buffalo medium both ingest 5000000
-Buffalo medium both both 5500000
-Buffalo large deliver ingest 10000000
-Buffalo large deliver both 10500000
-Buffalo large return ingest 4000000
-Buffalo large return both 4500000
-Buffalo large both ingest 11000000
-Buffalo large both both 11500000
-Elizabeth small deliver ingest 1000000
-Elizabeth small deliver both 1500000
-Elizabeth small return ingest 1000000
-Elizabeth small return both 1500000
-Elizabeth small both ingest 2000000
-Elizabeth small both both 2500000
-Elizabeth medium deliver ingest 4000000
-Elizabeth medium deliver both 4500000
-Elizabeth medium return ingest 4000000
-Elizabeth medium return both 4500000
-Elizabeth medium both ingest 5000000
-Elizabeth medium both both 5500000
-Elizabeth large deliver ingest 10000000
-Elizabeth large deliver both 10500000
-Elizabeth large return ingest 4000000
-Elizabeth large return both 4500000
-Elizabeth large both ingest 11000000
-Elizabeth large both both 11500000;
+Buffalo small 1000000
+Buffalo medium 4000000
+Buffalo large 10000000
+Elizabeth small 1000000
+Elizabeth medium 4000000
+Elizabeth large 10000000;
+
 
 param utility:=
-Buffalo small deliver ingest 500
-Buffalo small deliver both 500
-Buffalo small return ingest 500
-Buffalo small return both 500
-Buffalo small both ingest 500
-Buffalo small both both 500
-Buffalo medium deliver ingest 700
-Buffalo medium deliver both 700
-Buffalo medium return ingest 700
-Buffalo medium return both 700
-Buffalo medium both ingest 700
-Buffalo medium both both 700
-Buffalo large deliver ingest 1000
-Buffalo large deliver both 1000
-Buffalo large return ingest 1000
-Buffalo large return both 1000
-Buffalo large both ingest 1000
-Buffalo large both both 1000
-Elizabeth small deliver ingest 500
-Elizabeth small deliver both 500
-Elizabeth small return ingest 500
-Elizabeth small return both 500
-Elizabeth small both ingest 500
-Elizabeth small both both 500
-Elizabeth medium deliver ingest 700
-Elizabeth medium deliver both 700
-Elizabeth medium return ingest 700
-Elizabeth medium return both 700
-Elizabeth medium both ingest 700
-Elizabeth medium both both 700
-Elizabeth large deliver ingest 1000
-Elizabeth large deliver both 1000
-Elizabeth large return ingest 1000
-Elizabeth large return both 1000
-Elizabeth large both ingest 1000
-Elizabeth large both both 1000;
+Buffalo small 500
+Buffalo medium 700
+Buffalo large 1000
+Elizabeth small 500
+Elizabeth medium 700
+Elizabeth large 1000;
+
 
 param distance:=
 Syracuse Syracuse 0

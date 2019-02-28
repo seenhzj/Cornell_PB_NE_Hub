@@ -96,15 +96,15 @@ model.F=Set()
 #       repackage(k,i)  the number of return packages from k to i;
 #       sorting(j)      the sorting cost in location j
 
-model.capital = Param(model.J,model.S,model.T, model.F)
+model.capital = Param(model.J,model.S)
 
-model.utility = Param(model.J,model.S,model.T, model.F)
+model.utility = Param(model.J,model.S)
 
 model.distance = Param(model.L,model.L)
 
 model.hub_capacity=Param(model.S)
 
-model.package = Param(model.I|model.K,model.I|model.K)
+model.package = Param(model.I|model.K,model.I|model.K, initialize = 0)
 
 model.sorting = Param(model.J)
 
@@ -142,7 +142,7 @@ model.n=Var(model.L,model.L,model.L,model.H, within=NonNegativeReals)
 #(3)
 #(4)
 def obj_expression(model):
-    utility_cost=sum((model.utility[j,s,t,f] * model.y[j,s,t,f]) for j in model.J for s in model.S for t in model.T for f in model.F)
+    utility_cost=sum((model.utility[j,s] * model.y[j,s,t,f]) for j in model.J for s in model.S for t in model.T for f in model.F)
     loading_cost=sum((model.Load_Cost * model.n[j,l,l1,h]) for j in model.J for l in model.L for l1 in (model.I|model.K) for h in model.H)
     unloading_cost=sum((model.Unload_Cost * model.n[l,j,l1,h]) for l in model.L for j in model.J for l1 in (model.I|model.K) for h in model.H) 
     sorting_cost=sum((model.sorting[j] * model.n[j,k,k,h]) for j in model.J for k in model.K for h in model.H) 
@@ -159,18 +159,18 @@ model.OBJ = Objective(rule=obj_expression, sense = minimize, doc='Define objecti
 ## Define contrains ##
 # capital_constrains   the sum of the capital cost
 
-#(1)
+# #(1)
 def capital_constraints(model):
-    return (sum(model.capital[j,s,t,f]*model.y[j,s,t,f] for j in model.J for s in model.S for t in model.T for f in model.F)<=model.Max_Capital_Cost)
+    return (sum(model.capital[j,s]*sum(model.y[j,s,t,f] for t in model.T for f in model.F)for j in model.J for s in model.S)<=model.Max_Capital_Cost)
 model.max_cap = Constraint( rule = capital_constraints, doc = "max capital constraint")
 
 
 # In[210]:
 
 
-#(5)
+###5)
 def truck_size_constraints(model,l,l1):
-    return (sum(model.n[l,l1,l2,h] for l2 in model.L for h in model.H)<=model.Truck_Size*model.truck[l,l1])
+    return (sum(model.n[l,l1,l2,h] for l2 in model.I|model.I for h in model.H)<=model.Truck_Size*model.truck[l,l1])
 model.truck_size_con = Constraint(model.L,model.L,rule = truck_size_constraints, doc = "truck size constraint")
 
 
@@ -184,11 +184,11 @@ def inbound_equal_rule(model, j, h, l1):
 model.inbound_equal = Constraint(model.J,model.H1,model.I|model.K, rule = inbound_equal_rule, doc = "inbound package equal")
 
 
-# In[212]:
+# # # In[212]:
 
 
 #(7)
-#2nd demand contransts
+# #2nd demand contransts
 def initialization_demand_rule(model,l,l1,h):
     if l == l1:
         return Constraint.Skip
@@ -196,7 +196,7 @@ def initialization_demand_rule(model,l,l1,h):
 model.initialization_demand = Constraint(model.I|model.K,model.I|model.K,model.MaxH,rule = initialization_demand_rule)
 
 
-# In[213]:
+# # In[213]:
 
 
 #(8)
@@ -208,47 +208,55 @@ model.destination_demand_rule = Constraint(model.I|model.K, rule=destination_dem
 # In[214]:
 
 
-#(9)
+# #(9)
 def num_of_hubs_opened_perlocation(model,j):
     return(sum(model.y[j,s,t,f] for s in model.S for t in model.T for f in model.F)<=1)
 model.num=Constraint(model.J,rule=num_of_hubs_opened_perlocation,doc="constraint on num of hubs opened per location")
 
 
-# In[215]:
+# # In[215]:
 
 
-#(10)
+# #(10)
 def delivery_hub_rule(model,j,k,l):
     return (sum(model.n[l,j,k,h] for h in model.H)
            <= (M * sum(model.y[j,s,'deliver',f]+model.y[j,s,'both',f] for s in model.S for f in model.F)))
 model.delivery_hub = Constraint(model.J,model.K,model.I|model.J, rule = delivery_hub_rule, doc = "ensure delivery packages handled by delivery hub")
 
 
-# In[216]:
+# # In[216]:
 
 
-#(11)
+# #(11)
 def delivery_sort_hub_rule(model,j,k):
     return (sum(model.n[j,k,k,h] for h in model.H)
            <= (M * sum(model.y[j,s,'deliver','both']+model.y[j,s,'both','both'] for s in model.S)))
 model.delivery_sort_hub = Constraint(model.J,model.K, rule = delivery_sort_hub_rule, doc = "ensure last delivery packages handled by sort-delivery hub")
 
 
-# In[217]:
+# # In[217]:
 
 
-#(12)
+# #(12)
 def return_hub_rule(model,i,j,k,l):
     return (sum(model.n[l,j,i,h] for h in model.H)
            <= (M * sum(model.y[j,s,'return',f]+model.y[j,s,'both',f] for s in model.S for f in model.F)))
 model.return_hub = Constraint(model.I,model.J,model.K,model.L, rule = return_hub_rule, doc = "ensure return packages handled by return hub")
 
 
-# In[218]:
+# # In[218]:
 
 
-#(13)
+# #(13)
 def hub_capacity_constraint(model,j):
     return sum(model.n[l,j,l1,h] for l in model.L for l1 in model.I|model.K for h in model.H)<=sum(model.hub_capacity[s]*model.y[j,s,t,f] for s in model.S for t in model.T for f in model.F)
 model.hub_capacity_constraint=Constraint(model.J, rule=hub_capacity_constraint,doc="hub capacity constraint")
 
+#(14)
+#constraint that makes model.n to be at least 0 
+def n0_constraint(model,l,l1,l2,h):
+    return (model.n[l,l1,l2,h] >= 0)
+model.n0_constraint=Constraint(model.L,model.L,model.L,model.H, rule=n0_constraint, doc="n>=0")
+# def truck_constraint(model,l,l1,l2,h):
+#     return (model.truck[l,l1,l2,h] >= 0)
+# model.n0_constraint=Constraint(model.L,model.L,model.L,model.H, rule=n0_constraint, doc="n>=0")
