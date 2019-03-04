@@ -6,12 +6,12 @@
 # ----------------------------------------------------------
 Problem: 
 - Name: unknown
-  Lower bound: 8683.5
-  Upper bound: 8683.5
+  Lower bound: 1235126.0
+  Upper bound: 1235126.0
   Number of objectives: 1
-  Number of constraints: 333
-  Number of variables: 1144
-  Number of nonzeros: 5394
+  Number of constraints: 14108
+  Number of variables: 20833
+  Number of nonzeros: 233993
   Sense: minimize
 # ----------------------------------------------------------
 #   Solver Information
@@ -21,10 +21,10 @@ Solver:
   Termination condition: optimal
   Statistics: 
     Branch and bound: 
-      Number of bounded subproblems: 2931
-      Number of created subproblems: 2931
+      Number of bounded subproblems: 1787
+      Number of created subproblems: 1787
   Error rc: 0
-  Time: 2.1100544929504395
+  Time: 62.88220238685608
 # ----------------------------------------------------------
 #   Solution Information
 # ----------------------------------------------------------
@@ -36,23 +36,23 @@ Solution:
   Message: None
   Objective:
     OBJ:
-      Value: 8683.5
+      Value: 1235126
   Variable:
     n[1,101,201,2]:
-      Value: 12
+      Value: 11725
     n[101,201,201,1]:
-      Value: 31
-    n[2,101,201,2]:
-      Value: 2
-    n[3,101,201,2]:
-      Value: 17
+      Value: 11725
+    n[101,202,202,1]:
+      Value: 527
+    n[2,101,202,2]:
+      Value: 527
     truck[1,101]:
-      Value: 1
+      Value: 2
     truck[101,201]:
+      Value: 2
+    truck[101,202]:
       Value: 1
     truck[2,101]:
-      Value: 1
-    truck[3,101]:
       Value: 1
     y[101,small,both,both]:
       Value: 1

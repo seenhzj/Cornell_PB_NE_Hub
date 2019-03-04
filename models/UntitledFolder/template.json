@@ -1,0 +1,57 @@
+{
+  "data": {
+    "files": [],
+    "namespaces": []
+  },
+  "model": {
+    "filename": null,
+    "object name": null,
+    "type": null,
+    "options": {},
+    "linearize expressions": false,
+    "save file": null,
+    "save format": null,
+    "symbolic solver labels": false,
+    "file determinism": 1
+  },
+  "transform": [
+    null
+  ],
+  "preprocess": [],
+  "runtime": {
+    "logging": null,
+    "logfile": null,
+    "catch errors": false,
+    "disable gc": false,
+    "interactive": false,
+    "keep files": false,
+    "paths": [],
+    "profile count": 0,
+    "profile memory": 0,
+    "report timing": false,
+    "tempdir": null,
+    "only instance": false,
+    "stream output": false
+  },
+  "solvers": [
+    {
+      "solver name": "glpk",
+      "solver executable": null,
+      "io format": null,
+      "manager": "serial",
+      "pyro host": null,
+      "pyro port": null,
+      "options": {},
+      "options string": null,
+      "suffixes": []
+    }
+  ],
+  "postprocess": [],
+  "postsolve": {
+    "print logfile": false,
+    "save results": null,
+    "show results": false,
+    "results format": null,
+    "summary": false
+  }
+}
