@@ -1,0 +1,60 @@
+# ==========================================================
+# = Solver Results                                         =
+# ==========================================================
+# ----------------------------------------------------------
+#   Problem Information
+# ----------------------------------------------------------
+Problem: 
+- Name: x19
+  Lower bound: 5610.0
+  Upper bound: 5610.0
+  Number of objectives: 1
+  Number of constraints: 9
+  Number of variables: 19
+  Number of binary variables: 3
+  Number of integer variables: 18
+  Number of continuous variables: 1
+  Number of nonzeros: 34
+  Sense: minimize
+# ----------------------------------------------------------
+#   Solver Information
+# ----------------------------------------------------------
+Solver: 
+- Status: ok
+  Return code: 0
+  Message: Model was solved to optimality (subject to tolerances), and an optimal solution is available.
+  Termination condition: optimal
+  Termination message: Model was solved to optimality (subject to tolerances), and an optimal solution is available.
+  Wall time: 0.0243029594421
+  Error rc: 0
+  Time: 0.2531280517578125
+# ----------------------------------------------------------
+#   Solution Information
+# ----------------------------------------------------------
+Solution: 
+- number of solutions: 1
+  number of solutions displayed: 1
+- Gap: 0.0
+  Status: optimal
+  Message: Model was solved to optimality (subject to tolerances), and an optimal solution is available.
+  Objective:
+    OBJ:
+      Value: 5610
+  Variable:
+    x[1,b]:
+      Value: 80
+    x[2,b]:
+      Value: 270
+    x[3,b]:
+      Value: 150
+    x[3,c]:
+      Value: 100
+    x[4,c]:
+      Value: 160
+    x[5,c]:
+      Value: 180
+    y[b]:
+      Value: 1
+    y[c]:
+      Value: 1
+  Constraint: No values
