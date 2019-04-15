@@ -1,0 +1,119 @@
+set L := i1 F101 F102 F103 F104 F105 k1;
+set I := i1;
+set J := F101 F102 F103 F104 F105;
+set K := k1;
+set S := small medium large;
+set T := deliver return both;
+set F := ingest both;
+set MaxH := 2;
+
+param Max_Capital_Cost:= 15000000;  #capital investing $ given
+param Mile_Cost:= 4;  #mile cost in $ per mile
+param Truck_Size:= 6000;  #the max size of a truck in packages
+param Load_Cost:= 50;  #the loading cost per truck in $
+param Unload_Cost:= 50;  #the unloading cost per truck in $
+param Hops:= 2;  #number of hops allowed
+param Fixed_Trucks_Cost:= 550; #the min trans cost per truck in $
+
+param capital:= 
+F101 small 1000000
+F101 medium 4000000
+F101 large 10000000
+F102 small 1000000
+F102 medium 4000000
+F102 large 10000000
+F103 small 1000000
+F103 medium 4000000
+F103 large 10000000
+F104 small 1000000
+F104 medium 4000000
+F104 large 10000000
+F105 small 1000000
+F105 medium 4000000
+F105 large 10000000;
+
+
+param utility:=
+F101 small 500
+F101 medium 700
+F101 large 1000
+F102 small 500
+F102 medium 700
+F102 large 1000
+F103 small 500
+F103 medium 700
+F103 large 1000
+F104 small 500
+F104 medium 700
+F104 large 1000
+F105 small 500
+F105 medium 700
+F105 large 1000;
+
+
+param distance:=
+i1 i1 0
+i1 F101 103
+i1 F102 505
+i1 F103 148
+i1 F104 219
+i1 F105 60
+i1 k1 324
+F101 i1 103
+F101 F101 0
+F101 F102 503
+F101 F103 158
+F101 F104 121
+F101 F105 110
+F101 k1 380
+F102 i1 505
+F102 F101 503
+F102 F102 0
+F102 F103 358
+F102 F104 571
+F102 F105 564
+F102 k1 820
+F103 i1 148
+F103 F101 158
+F103 F102 358
+F103 F103 0
+F103 F104 263
+F103 F105 205
+F103 k1 471
+F104 i1 219
+F104 F101 121
+F104 F102 571
+F104 F103 263
+F104 F104 0
+F104 F105 203
+F104 k1 428
+F105 i1 60
+F105 F101 110
+F105 F102 564
+F105 F103 205
+F105 F104 203
+F105 F105 0
+F105 k1 277
+k1 i1 324
+k1 F101 380
+k1 F102 820
+k1 F103 471
+k1 F104 428
+k1 F105 277
+k1 k1 0;
+
+param hub_capacity:=
+small 4800000
+medium 14400000
+large 28800000;
+
+param package:=
+i1 k1 13;
+
+param sorting:=
+F101 0.5
+F102 0.5
+F103 0.5
+F104 0.5
+F105 0.5;
+

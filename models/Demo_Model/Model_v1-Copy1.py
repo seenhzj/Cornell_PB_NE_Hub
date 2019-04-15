@@ -192,6 +192,9 @@ def destination_demand_rule(model, l):
     return (sum(model.n[j,l,l,h] for j in model.J for h in model.H) == sum(model.package[l1,l] for l1 in model.I|model.K))
 model.destination_demand_rule = Constraint(model.I|model.K, rule=destination_demand_rule)
 
+def total_package_equal_rule(model):
+    return (sum(model.n[j,l1,l1,h] for j in model.J for l1 in model.I|model.K for h in model.H) == sum(model.package[l2,l1] for l2 in model.I|model.K for l1 in model.I|model.K))
+model.total_package_equal_rule = Constraint(rule=total_package_equal_rule)
 
 
 # # #(9)
